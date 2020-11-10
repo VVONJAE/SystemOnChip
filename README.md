@@ -6,8 +6,8 @@ ______
 
 ## LED
 * [LED.v](LED.v)
-* [LED]
-* [LED]
+* [LED_v1_0.v](LED_v1_0.v)
+* [LED_v1_0_S00_AXI.v](LED_v1_0_S00_AXI.v)
   * ip를 직접 작성.
   * LED 8개를 껐다 킬 수 있음
 
